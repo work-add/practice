@@ -1,10 +1,5 @@
-memo
-update
-rivert test01
-commitのやり直し
-最後のコミット
-再度リバート挑戦
+xxxx
+xxxx
+xxxx
 
-仕切り直し commit test 07
-
-test commit 12
+test commit 15
