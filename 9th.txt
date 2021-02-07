@@ -1,0 +1,10 @@
+memo
+update
+rivert test01
+commitのやり直し
+最後のコミット
+再度リバート挑戦
+
+仕切り直し commit test 07
+
+りせっと3回目
