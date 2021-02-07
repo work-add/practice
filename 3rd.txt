@@ -1,4 +1,0 @@
-memo
-update
-rivert test01
-commit‚Ì‚â‚è’¼‚µ
